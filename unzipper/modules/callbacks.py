@@ -227,7 +227,7 @@ async def unzipper_cb(_, query: CallbackQuery, texts):
             await gf.del_token()
         elif mode == "get":
             return await unzip_client.answer_query(query, texts["gofile_token"].format(await gf.get_token()))
-        await unzip_client.answer_query(query, "**Done ✅!**")
+        await unzip_client.answer_query(query, "**Done ✅**")
 
     elif qdat.startswith("cloudbackup"):
         clb = CloudBackup(query.from_user.id)
