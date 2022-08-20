@@ -44,7 +44,7 @@ And Some other features 🔥!
 - `API_HASH` - Your API_HASH. Get it from [my.telegram.org](my.telegram.org)
 - `BOT_OWNER` - Your Telegram Account ID. Get it from [@MissRose_bot](https://t.me/MissRose_bot) (Start the bot and send <samp>/info</samp> command).
 - `BOT_TOKEN` - Bot Token of Your Telegram Bot. Get it from [@BotFather](https://t.me/BotFather)
-- `MONGODB_URL` - Your MongoDB url, Tutorial [here](https://www.youtube.com/watch?v=0aYrJTfYBHU)
+- `MONGODB_URL` - Your MongoDB url, Tutorial [here](https://youtu.be/Aj4lI_u_Cf4)
 - `LOGS_CHANNEL` - Follow these steps,
   - Make a private channel
   - Add your bot to the channel as an admin
@@ -59,7 +59,7 @@ And Some other features 🔥!
 Deploying is easy 🤫! You can deploy this bot in Heroku or in a linux VPS ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### With Heroku
-<a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot/tree/arch">
+<a href="https://www.heroku.com/deploy?template=https://github.com/GreyMatter658/Unzip-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
@@ -70,7 +70,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a linux VPS ♥�
 > It's recomended to use a arch linux based distro to deploy this bot as the original author of the p7zip package has not made an update since 2016, but the arch linux's version is packaged from an active fork.
 
 ```bash
-git clone https://github.com/Itz-fork/Unzipper-Bot.git
+git clone https://github.com/GreyMatter658/Unzip-Bot
 cd Unzipper-Bot
 pip3 install -r requirements.txt
 
@@ -90,7 +90,7 @@ sudo apt install p7zip-full p7zip-rar zstd
 bash start.sh
 ```
 
-**DONE 🥳, Enjoy The Bot! Be sure to Follow Me on [Github](https://github.com/Itz-fork) and Star 🌟 this repo to Show some support 😍!**
+**DONE 🥳, Enjoy The Bot! Be sure to Follow Developer on [Github](https://github.com/Itz-fork) and Star 🌟 this repo to Show some support 😍!**
 
 </br>
 
@@ -102,10 +102,10 @@ If you found a bug in this bot please open an [issue](https://github.com/Itz-for
 
 
 ## Support 💙
-<a href="https://t.me/NexaBotsUpdates">
+<a href="https://t.me/GreyMatter_Bots">
   <img src="https://img.shields.io/badge/Updates_Channel-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://t.me/Nexa_bots">
+<a href="https://t.me/GreyMatters_Bots_Discussion">
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
