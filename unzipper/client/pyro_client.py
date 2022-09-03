@@ -127,7 +127,7 @@ class UnzipperBot(Client):
                 await self.send_document(
                     chat_id=c_id,
                     document=doc_f,
-                    caption="**Extracted by @unzip_unrar_658_bot**",
+                    caption="**Extracted by @raj_files**",
                     thumb=sthumb,
                     progress=progress_for_pyrogram,
                     progress_args=("**Trying to upload 😇** \n", tgupmsg, stm))
