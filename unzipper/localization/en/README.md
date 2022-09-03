@@ -1,3 +1,3 @@
 **Language:** English
 
-**Translated by:** [@Itz-fork](https://github.com/Itz-fork)
+**Translated by:** [@Raj_files](https://github.com/Itz-fork)
