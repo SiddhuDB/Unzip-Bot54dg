@@ -1,7 +1,7 @@
 {
     "this_lang": "en",
 
-    "start": "Hi **{}**, I'm **Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Deployed with ❤️ by @GreyMatter_Bots**",
+    "start": "Hi **{}**, I'm **Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Deployed with ❤️ by @Siddhudb **",
     "about": "**About Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Source Code:** [Unzip-Bot](https://bit.ly/3QBFYKv)\n\n\n**Made with ❤️ by @GreyMatter_Bots**",
     
     "processing": "`Processing ⚙️...`",
