@@ -115,7 +115,7 @@ class UnzipperBot(Client):
                 await self.send_video(
                     chat_id=c_id,
                     video=doc_f,
-                    caption="**Extracted by @unzip_unrar_658_bot**",
+                    caption="**Extracted by @Raj_files**",
                     duration=int(
                         vid_duration) if vid_duration.isnumeric() else 0,
                     thumb=sthumb,
